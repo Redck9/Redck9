@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
   
-  <img src="https://komarev.com/ghpvc/?username=Redck9&style=flat-square&color=blue" alt=""/>
+  <div id="views">
+    <img src="https://komarev.com/ghpvc/?username=Redck9&style=flat-square&color=blue" alt=""/>
+  </div>
   
 </div>
 <!--
