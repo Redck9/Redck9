@@ -24,7 +24,7 @@
 - :mortar_board: Graduated in Computer Sciences Engineering at the University of Évora.
 - :mortar_board: Currently doing my Master's degree in Computer Engineering, with a specialization in Data Science, at the Faculty of Science, University of Lisbon.
 - ⏲️ In my free time, I:
-  -  play and create Videogames 🎮;
+  -  play Videogames 🎮;
   -  listen Music 🎵;
   -  play and watch Sports ⚽;
   -  go to Cinema 🎥;
