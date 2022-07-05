@@ -21,8 +21,10 @@
 
 ### 👨‍💻 About Me :
 
+- :mortar_board: Graduated in Computer Engineering at the University of Évora.
+- :mortar_board: Currently doing my Master's degree in Computer Engineering, with a specialization in Data Science, at the Faculty of Science, University of Lisbon.
 - ⚽ In my free time, I play and create Videogames, listen Music, play Sports, watch football, go to Cinema, read tech articles or just chill.
-- 📫 How to reach me: rpedroslb@gmail.com.
+- <div id="badges">📫 How to reach me: <img src="https://img.shields.io/badge/-rpedroslb%40gmail.com-red"></div>
 
 ---
 
