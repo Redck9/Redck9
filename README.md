@@ -21,8 +21,8 @@
 
 ### 👨‍💻 About Me :
 
-- :mortar_board: Graduated in Computer Sciences Engineering at the University of Évora.
-- :mortar_board: Currently doing my Master's degree in Informatics Engineering, with a specialization in Data Science, at the Faculty of Science, University of Lisbon.
+- :mortar_board: Degree in Computer Engineering from the University of Évora.
+- :mortar_board: Master's degree in Computer Engineering from the Faculty of Sciences of the University of Lisbon.
 - ⏲️ In my free time, I like to:
   -  play Videogames 🎮;
   -  listen to Music 🎵;
