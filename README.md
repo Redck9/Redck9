@@ -21,14 +21,14 @@
 
 ### 👨‍💻 About Me :
 
-- :mortar_board: Degree in Computer Engineering from the University of Évora.
-- :mortar_board: Master's degree in Computer Engineering from the Faculty of Sciences of the University of Lisbon.
+- :mortar_board: Licentiate Degree in Computer Science from the Universidade de Évora.
+- :mortar_board: Master's degree in Computer Science from the Faculdade de Ciências da Universidade de Lisboa.
 - ⏲️ In my free time, I like to:
-  -  play Videogames 🎮;
-  -  listen to Music 🎵;
-  -  play and watch Sports ⚽;
-  -  go to Cinema 🎥;
-  -  read tech articles 📄.
+  -  Play Videogames 🎮;
+  -  Listen to Music 🎵;
+  -  Play and watch Sports ⚽;
+  -  Go to Cinema 🎥;
+  -  Read tech articles 📄.
 - <div id="badges">📫 How to reach me: <img src="https://img.shields.io/badge/-rpedroslb%40gmail.com-red"></div>
 
 ---
