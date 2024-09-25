@@ -67,6 +67,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira"  alt="jira" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+![Language Stats](https://raw.githubusercontent.com/Redck9/Most-Used-Language-Card/main/images/language_stats.png)
+
 
 <!--
 **Redck9/Redck9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
