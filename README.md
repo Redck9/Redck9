@@ -21,8 +21,8 @@
 
 ### 👨‍💻 About Me :
 
-- :mortar_board: Licentiate Degree in Computer Science from the Universidade de Évora.
-- :mortar_board: Master's degree in Computer Science from the Faculdade de Ciências da Universidade de Lisboa.
+- :mortar_board: Bachelor's Degree in Computer Science from the Universidade de Évora.
+- :mortar_board: Master's Degree in Computer Science from the Faculdade de Ciências da Universidade de Lisboa.
 - ⏲️ In my free time, I like to:
   -  Play Videogames 🎮;
   -  Listen to Music 🎵;
