@@ -74,6 +74,7 @@
 
 ![Language Stats](https://raw.githubusercontent.com/Redck9/Most-Used-Language-Card/main/images/language_stats.png)
 
+![My GitHub Game](game.gif)
 
 <!--
 **Redck9/Redck9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
